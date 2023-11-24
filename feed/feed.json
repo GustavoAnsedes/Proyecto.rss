@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My Example News",
+    "home_page_url": "https://gustavoansedes.github.io/Proyecto.rss/",
+    "feed_url": "https://gustavoansedes.github.io/Proyecto.rss/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "This is a second item.",
+    "url": "https://example.org/second-item"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello, world!</p>",
+    "url": "https://example.org/initial-post"
+    }
+    ]
+   }
+   
